@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+#featured_img {
+    height: 30vh;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+}
