@@ -2,10 +2,17 @@ body {
     text-align: center;
 }
 #featured_img {
-    height: 30vh;
+    height: 33vh;
     margin: auto;
     border: 2px solid black;
     text-align: center;
-    width: 40%;
+    width: 100%;
     margin-left: auto;
+    margin-top: 8vh;
+}
+
+.dataframe {
+    margin: auto;
+    margin-top: 1vh;
+    width: 100%;
 }
